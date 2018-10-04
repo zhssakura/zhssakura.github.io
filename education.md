@@ -21,7 +21,7 @@ ___
 
 
 <div class="row small center column">
-  <img style="float:right; display: block;" src="/assets/images/fio.png" style="width: 150px;">
+  <img style="float:right; display: block;" src="/assets/images/tianke.jpeg" style="width: 150px;">
 </div>
 
 <div>
